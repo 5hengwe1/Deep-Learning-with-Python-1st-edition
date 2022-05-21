@@ -1,2 +1,4 @@
 # Deep Learning with Python, 1st edition
-Implement Deep Learning with Python, 1st edition of training dataset
+Disclaimer
+
+Please, Do NOT fork or copy this repository.
